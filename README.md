@@ -17,7 +17,7 @@ The objective of this project is to build a machine learning solution that predi
 
 ##  Project Phases
 
-### Phase 1: Problem & Data Foundations ✅
+### Phase 1: Problem & Data Foundations 
 - Problem statement definition  
 - Dataset selection and understanding  
 - Target variable identification  
