@@ -83,12 +83,14 @@ These metrics will be consistently used during model comparison.
 
 ##  Repository Structure (Phase 1)
 
+```text
 solar-power-output-prediction-ml/
 │
 ├── notebooks/
 │ └── Phase_1_Problem_and_Data_Foundations.ipynb
 │
 ├── README.md
+```
 
 
 ---
