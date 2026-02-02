@@ -47,7 +47,7 @@ The dataset contains inverter-level solar power generation data recorded at regu
 
 ---
 
-## 🎯 Target Variable
+##  Target Variable
 
 - **AC_POWER**
 
